@@ -1,0 +1,1 @@
+export type TabType = 'overview' | 'github' | 'leetcode' | 'study';
